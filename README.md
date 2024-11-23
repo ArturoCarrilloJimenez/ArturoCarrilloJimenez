@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/arturo-carrillo-jiménez-067448252/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="blank">
+  <a href="mailto:acarrilloj05@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
