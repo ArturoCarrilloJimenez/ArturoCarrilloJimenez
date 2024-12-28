@@ -79,7 +79,6 @@
 </p>
 <ul>
   <li>🚀 Enfocado en proyectos con <strong>Angular, FastAPI, Laravel y Docker</strong>.</li>
-  <li>🌱 Explorando y profundizando en <strong>Node.js y Arquitectura de Software</strong>.</li>
   <li>🎯 Mi objetivo: contribuir a proyectos que generen un impacto positivo.</li>
   <li>⚡ Fuera del código, disfruto <strong>el boxeo, la naturaleza y mantenerme activo</strong>.</li>
 </ul>
