@@ -65,9 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arturocarrillojimenez&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturocarrillojimenez&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturocarrillojimenez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
