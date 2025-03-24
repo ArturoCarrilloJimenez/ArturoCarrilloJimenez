@@ -1,15 +1,9 @@
-<h1 align="center">¡Hola! 👋 Soy Arturo Carrillo Jiménez</h1>
-<h3 align="center">Desarrollador web apasionado por resolver problemas complejos y crear soluciones innovadoras a través del código.</h3>
+![Banner](./img/banner.jpg)
 
----
+<h3 align="center">Soy un apasionado por el mundo del desarrollo con el objetivo de ayudar a las personas a solucionar sus problemas con  aplicaciones robustas y escalables</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arturocarrillojimenez&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="Visitas al perfil" />
-</p>
+<br>
 
----
-
-<h3 align="center">🌐 Encuéntrame en:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/arturo-carrillo-jiménez-067448252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arturo%20Carrillo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -29,7 +23,6 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40" />
 </p>
 
   <h4>Frontend CSS:</h4>
@@ -56,7 +49,6 @@
   </p>
 </div>
 
-
 ---
 
 <h3 align="center">📊 Mis estadísticas:</h3>
@@ -78,4 +70,3 @@
   <li>🎯 Mi objetivo: contribuir a proyectos que generen un impacto positivo.</li>
   <li>⚡ Fuera del código, disfruto <strong>el boxeo, la naturaleza y mantenerme activo</strong>.</li>
 </ul>
-
