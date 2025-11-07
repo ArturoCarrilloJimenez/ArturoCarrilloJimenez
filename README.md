@@ -1,4 +1,4 @@
-![Banner](./img/banner.jpg)
+![Banner](./img/banner.png)
 
 <h3 align="center">Soy un apasionado por el mundo del desarrollo con el objetivo de ayudar a las personas a solucionar sus problemas con  aplicaciones robustas y escalables</h3>
 
