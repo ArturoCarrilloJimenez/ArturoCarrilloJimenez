@@ -22,7 +22,6 @@
 - **Trabajo actual**: Software Developer en **Viewnext** (Proyecto Cajamar).
 - **Formación activa**: Cursando Máster en *Data Science & Artificial Intelligence* en **EBIS Business Techschool**.
 - **Ingeniería de Datos**: Scraping masivo distribuido, paralelismo y pipelines con AWS SQS.
-- **IA Generativa**: Impulsor de la adopción técnica de herramientas GenAI y Prompt Engineering para agentes corporativos.
 - **Ubicación**: Almería, Andalucía, España.
 
     </td>
@@ -78,7 +77,7 @@
   - Creación de contenidos y talleres internos para la adopción de IA Generativa en la delegación regional.
 - **Viewnext** — *Full Stack Developer*
   - Desarrollo web con Angular, NestJS, Node.js, Stripe, Docker, GitHub Actions y Prompt Engineering para agentes de IA corporativos.
-- **Ingeniería de Datos**:
+- **Web Scraping Distributed**:
   - Diseño de sistemas de scraping masivo distribuidos utilizando AWS SQS enfocados en alta disponibilidad.
 
 ---
