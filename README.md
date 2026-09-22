@@ -109,7 +109,17 @@ _Almería, Andalucía, España_
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="36" height="36" />
 </p>
 
+<<<<<<< HEAD
 > GitHub Actions (CI/CD) · SonarQube · Pytest · Docker Compose · Git / GitHub Flow
+=======
+- **Viewnext (Proyecto Cajamar)** — *Software Developer*
+  - Desarrollo de funcionalidades e interfaces en Java y JavaScript para los módulos Hipotecario y Factoring en entorno regulado bancario (Scrum).
+  - Creación de contenidos y talleres internos para la adopción de IA Generativa en la delegación regional.
+- **Viewnext** — *Full Stack Developer*
+  - Desarrollo web con Angular, NestJS, Node.js, Stripe, Docker, GitHub Actions y Prompt Engineering para agentes de IA corporativos.
+- **Web Scraping Distributed**:
+  - Diseño de sistemas de scraping masivo distribuidos utilizando AWS SQS enfocados en alta disponibilidad.
+>>>>>>> b982997177067deb186e71b2b2326276c3cd2126
 
 ---
 
