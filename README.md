@@ -48,12 +48,12 @@ _Almería, Andalucía, España_
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ArturoCarrilloJimenez_WebScrapingDistributed&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ArturoCarrilloJimenez_WebScrapingDistributed)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ArturoCarrilloJimenez_WebScrapingDistributed&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ArturoCarrilloJimenez_WebScrapingDistributed)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ArturoCarrilloJimenez_WebScrapingDistributed&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ArturoCarrilloJimenez_WebScrapingDistributed)
-- **Ingesta de Alta Concurrencia:** Endpoint asíncrono en **FastAPI** con validación estricta de esquemas (Pydantic), capaz de ingerir y despachar **+40.000 tareas/minuto** hacia colas **Amazon SQS** con latencias de encolado <70 ms>.
+- **Ingesta de Alta Concurrencia:** Endpoint asíncrono en **FastAPI** con validación estricta de esquemas (Pydantic), capaz de ingerir y despachar **+40.000 tareas/minuto** hacia colas **Amazon SQS** con latencias de encolado <70 ms.
 - **Cómputo Multinivel (*Tiered Execution*):** Desacoplamiento de la carga de trabajo según el destino:
   - *Pipeline Estático:* Clientes HTTP asíncronos para scraping masivo de bajísima latencia y mínimo consumo de memoria.
   - *Pipeline Dinámico:* Pool elástico de workers en contenedores (**Playwright**/Python) para renderizado complejo de DOM y SPAs.
 - **Escalado Reactivo (K8s + KEDA):** Autoscaling horizontal de pods en Kubernetes conducido directamente por la profundidad de la cola SQS (*queue lag*), escalando dinámicamente de 0 a $N$ workers según la demanda.
-- **Data Lake Storage (AWS S3):** Capa de buffer en memoria con volcados compactados por lotes para solucionar el *Small Files Problem* y reducir radicalmente los costes operativos de I/O en S3].
+- **Data Lake Storage (AWS S3):** Capa de buffer en memoria con volcados compactados por lotes para solucionar el *Small Files Problem* y reducir radicalmente los costes operativos de I/O en S3.
 
 #### 2. [StyleHub - Backend Transaccional](https://github.com/ArturoCarrilloJimenez/StyleHub-Backend-Nest)
 *API REST modular orientada a dominio para comercio electrónico.*
