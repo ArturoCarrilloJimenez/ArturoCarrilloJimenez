@@ -116,7 +116,7 @@ _Almería, Andalucía, España_
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoCarrilloJimenez&theme=dracula" alt="Estadísticas de GitHub" width="48%" />
   <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Lenguajes más usados" width="48%" />
 </p>
 
