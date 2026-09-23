@@ -121,9 +121,17 @@ _Almería, Andalucía, España_
 </p>
 
 
+
 ---
 
-### Contacto
+<div align="center">
 
-- **Email**: [acarrilloj05@gmail.com](mailto:acarrilloj05@gmail.com)
-- **LinkedIn**: [linkedin.com/in/arturo-carrillo](https://www.linkedin.com/in/arturo-carrillo/)
+<sub>
+  <b>Arturo Carrillo Jiménez</b>
+  <br/>
+  <a href="https://www.linkedin.com/in/arturo-carrillo/">LinkedIn</a> · 
+  <a href="mailto:acarrilloj05@gmail.com">Email</a> · 
+  <a href="https://github.com/ArturoCarrilloJimenez">GitHub</a>
+</sub>
+
+</div>
