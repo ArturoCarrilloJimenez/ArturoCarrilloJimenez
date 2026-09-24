@@ -5,7 +5,7 @@
 # Arturo Carrillo Jiménez
 
 **Ingeniero de Software → Data Engineer** <br/>
-_Pipelines de datos a gran escala (AWS, Python, arquitecturas event-driven) | Backend en banca (Java, FastAPI) | Máster en Data Science e IA_ <br/>
+_Pipelines de datos a gran escala (AWS, Python, FastAPI, arquitecturas event-driven) | Desarrollador de software en banca (Java, JavaScript) | Máster en Data Science e IA_ <br/>
 _Almería, Andalucía, España_
 
 [LinkedIn](https://www.linkedin.com/in/arturo-carrillo/) | [Email](mailto:acarrilloj05@gmail.com) | [GitHub](https://github.com/ArturoCarrilloJimenez)
